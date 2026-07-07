@@ -8,7 +8,7 @@ A tiny sample project for practicing Git and GitHub workflows.
 python hello.py
 ```
 
-## Fnuctions
+## Functions
 
 - `greet(name)` - returns a greeting string. Falls back to "Hello, World!" when no name is given.
 
